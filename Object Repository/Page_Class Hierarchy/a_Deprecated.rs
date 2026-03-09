@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Deprecated</name>
+   <tag></tag>
+   <elementGuidId>5172e5f3-441e-4e3b-88d8-a58066547d48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'deprecated-list.html']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;deprecated-list\.html&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee094af8-b50a-4585-b1c9-236e6dcb6498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>deprecated-list.html</value>
+      <webElementGuid>f35914a6-1118-437a-b676-f356d7befdec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deprecated</value>
+      <webElementGuid>7391a86c-c725-45e1-ba54-ab06a31adedd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fd1f5b2be8de29127e44d5a98342e0cc</value>
+      <webElementGuid>bc9b0b9a-94b6-47cd-a0c9-7a682964c5e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'deprecated-list.html']</value>
+      <webElementGuid>19b3e369-e956-4ea5-90d5-d47acbab5809</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'deprecated-list.html']</value>
+      <webElementGuid>2c08ed02-d797-4b80-90f5-02bdc697db1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'deprecated-list.html' and (text() = 'Deprecated' or . = 'Deprecated')]</value>
+      <webElementGuid>ee56092c-8856-4bcb-8c75-8e22852cd103</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

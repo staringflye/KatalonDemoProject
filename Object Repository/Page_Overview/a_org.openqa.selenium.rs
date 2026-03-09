@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_org.openqa.selenium</name>
+   <tag></tag>
+   <elementGuidId>b96ad3e8-2c1f-428e-b8f2-5cd5eb634d9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'org/openqa/selenium/package-summary.html']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;org\/openqa\/selenium\/package-summary\.html&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>124ed643-b9df-4583-98ea-75a58f0a45db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>org/openqa/selenium/package-summary.html</value>
+      <webElementGuid>cf23f3f8-91c8-452c-a2ea-e3c8a76b9493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>org.openqa.selenium</value>
+      <webElementGuid>283393dc-f7cd-4c3e-b671-44c0f0e0a9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-380cda4156d3c5ee84e87b23386e5ef7</value>
+      <webElementGuid>f7dc12a5-f132-48d5-9abd-418f57ce30f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'org/openqa/selenium/package-summary.html']</value>
+      <webElementGuid>6b302da3-ff5d-435d-9813-be9bd5bcc6ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'org/openqa/selenium/package-summary.html']</value>
+      <webElementGuid>61e54c11-8d6c-43f1-ad7c-6d4590262489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'org/openqa/selenium/package-summary.html' and (text() = 'org.openqa.selenium' or . = 'org.openqa.selenium')]</value>
+      <webElementGuid>4f9f58d1-2655-4ba1-ab44-546196d5226a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

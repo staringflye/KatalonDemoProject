@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_org.openqa.selenium</name>
+   <tag></tag>
+   <elementGuidId>c065267e-4602-48bc-b87a-0d576c90ad08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even-row-color ') and contains(concat(' ', normalize-space(@class), ' '), ' all-packages-table ') and contains(concat(' ', normalize-space(@class), ' '), ' col-first ') and (position() = 3)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.even-row-color.all-packages-table.col-first:nth-child(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3327ebb7-4ecf-4987-a53d-b07731b1e9ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-first even-row-color all-packages-table all-packages-table-tab1</value>
+      <webElementGuid>15bdd0f5-539a-420c-b775-9f735a8d2e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>org.openqa.selenium</value>
+      <webElementGuid>d079f430-2540-45fc-ba46-e4f57949af87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0473415686f6e2b9559fdc6e8d86599d</value>
+      <webElementGuid>e002193d-9bdd-441b-a9e6-62240086662a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even-row-color ') and contains(concat(' ', normalize-space(@class), ' '), ' all-packages-table ') and contains(concat(' ', normalize-space(@class), ' '), ' col-first ') and (position() = 3)]</value>
+      <webElementGuid>9f60b4f2-54ad-4efa-a475-077cb7de40e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' even-row-color ') and contains(concat(' ', normalize-space(@class), ' '), ' all-packages-table ') and contains(concat(' ', normalize-space(@class), ' '), ' col-first ') and (position() = 3)]</value>
+      <webElementGuid>946cc4e5-9bef-48b7-a37a-d45a67d4ed19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'org.openqa.selenium' or . = 'org.openqa.selenium')]</value>
+      <webElementGuid>673ac6df-30c8-48ab-bada-e1bf30823dc9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

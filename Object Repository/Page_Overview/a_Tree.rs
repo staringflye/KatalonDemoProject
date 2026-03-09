@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tree</name>
+   <tag></tag>
+   <elementGuidId>6e7390f5-d13f-4304-932c-8a3ac1de4a09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'overview-tree.html']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;overview-tree\.html&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'overview-tree.html' and (text() = 'Tree' or . = 'Tree')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>31a3ac7d-566a-4c69-8288-c95ed1e95a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>overview-tree.html</value>
+      <webElementGuid>ddc8e413-9915-4cb6-8a08-3b2b03ea42a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tree</value>
+      <webElementGuid>85c358d3-5fc1-4d01-bbec-916ec086a18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-602bb95c5ed50761d68a6745eaf5da12</value>
+      <webElementGuid>a3e8af0f-1699-4677-94b4-d8c83ada02a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'overview-tree.html']</value>
+      <webElementGuid>4c9dc654-fddc-4c48-a21e-869347adb8f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'overview-tree.html']</value>
+      <webElementGuid>8a7df8f6-82ba-42cd-8a5c-be26da36a028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'overview-tree.html' and (text() = 'Tree' or . = 'Tree')]</value>
+      <webElementGuid>32bf5b77-7666-4856-97ba-20a29becfd29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

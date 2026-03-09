@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Overview</name>
+   <tag></tag>
+   <elementGuidId>63933c9c-d49c-4eff-bf8f-6d7ede31e175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'index.html']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;index\.html&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a0a0b773-7bb9-4cd1-9f22-15766d8cfda2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>index.html</value>
+      <webElementGuid>d1705561-ff22-4686-8c8d-05c83ce92f26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview</value>
+      <webElementGuid>9936e6c9-8e81-471e-a782-0fc35c0252d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6c04c5e4ab5ddf80457600ff8bfc4467</value>
+      <webElementGuid>1b04e1b8-5910-44c4-855b-3650d2aeac90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'index.html']</value>
+      <webElementGuid>005980f4-459e-44bc-b85c-3c597cc525aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'index.html']</value>
+      <webElementGuid>3178b8f8-2bb5-4214-9e72-ce822997f7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'index.html' and (text() = 'Overview' or . = 'Overview')]</value>
+      <webElementGuid>8ef67b48-16c4-45a4-92f9-456a47b0d5e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

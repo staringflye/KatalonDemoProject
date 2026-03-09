@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Use</name>
+   <tag></tag>
+   <elementGuidId>61392085-fe5c-4977-948b-e4da05d89e38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'li') and (position() = 4)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-child(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d4b27b6f-8fbe-4bd1-8fb9-024589a3dfdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use</value>
+      <webElementGuid>bebf6e90-487c-4d70-b46b-68b8988fe1e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2146ec1ee6c0fb6610354f58219f92dc</value>
+      <webElementGuid>826ea709-1e67-489f-857c-03d34c0bff5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'li') and (position() = 4)]</value>
+      <webElementGuid>f0071383-fc0b-40ec-ad56-e751d6fc2ad5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'li') and (position() = 4)]</value>
+      <webElementGuid>09d3982e-63de-40db-8f83-2d45f8109abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Use' or . = 'Use')]</value>
+      <webElementGuid>53c99822-4c99-4c0a-a76c-0627fa785a0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

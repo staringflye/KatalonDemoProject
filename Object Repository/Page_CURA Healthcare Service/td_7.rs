@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_7</name>
+   <tag></tag>
+   <elementGuidId>b3fb9358-ba29-4f69-bc25-552ac4cc5558</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 7)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(2) .day:nth-child(7)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8a1c05c2-5444-45e0-b816-67b061c03e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day</value>
+      <webElementGuid>9cf38fdc-172b-4a26-8361-06c31c7b3a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>c7737f4b-dbb0-4b4e-a266-4d772aedea32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-34a777cc3d7d5270d4d0fc5bc251a78e</value>
+      <webElementGuid>89366684-888e-4700-bfd6-c3deed035e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 7)]</value>
+      <webElementGuid>19eb904f-d94a-47bf-8767-9d801b9041de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 7)]</value>
+      <webElementGuid>88d2640a-9787-43a9-9b62-edd49b55ab84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '7' or . = '7')]</value>
+      <webElementGuid>8e2af10f-6cbe-47a9-8e4f-081298cdff5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
