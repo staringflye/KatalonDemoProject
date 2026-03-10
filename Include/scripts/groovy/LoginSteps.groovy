@@ -21,37 +21,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
-
 public class LoginSteps {
-	
+
 	@Given("user is on login page")
 	public void user_is_on_login_page_precondition() {
 		println " I am inside Given"
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl('https://practicetestautomation.com/practice-test-login/')
 	}
-	
-	@When("user enters valid username and password")
-	public void user_enters_valid_username_and_password() {
-		println " I am inside When"
-		WebUI.setText(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/input_Username_username'), 'student')
-		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/input_Password_password'),
-			'p4y+y39Ir5PJb2ispxT0Ew==')
-		
+
+	@When('user enters valid {string} and {string}')
+	public void user_enters_valid_username_and_password(String username, String password) {
+		println "I am inside When"
+		WebUI.setText(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/input_Username_username'), username)
+		WebUI.setText(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/input_Password_password'), password)
 	}
-	
+
 	@And("clicks on login button some more")
 	public void clicks_on_login_button_some_more() {
 		println " I am inside And"
 		WebUI.click(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/button_Submit'))
 	}
-	
+
 	@Then("user is navigated to home page")
 	public void user_is_navigated_to_home_page() {
 		println " I am inside Then"
 		WebUI.click(findTestObject('Object Repository/Page_Test Login  Practice Test Automation/a_Log out'))
 		WebUI.closeBrowser()
 	}
-
 }
