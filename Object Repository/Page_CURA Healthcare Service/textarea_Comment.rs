@@ -6,12 +6,16 @@
    <elementGuidId>f30eb63c-d12b-49d4-9fa6-471fbb171bc5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id = 'txt_comment']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#txt_comment</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'txt_comment' and @name = 'comment' and @placeholder = 'Comment']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'txt_comment']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>59b8eea6-20d8-4bc8-b6b1-bfe77ff8d5f9</webElementGuid>
+      <webElementGuid>4e44af2e-973b-45ec-87ce-fe1dc2db16ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>63dae7e3-2dfa-44a6-aeaa-d51d0cb87359</webElementGuid>
+      <webElementGuid>dcac7c7e-aa34-4b09-b715-190ad292765e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_comment</value>
-      <webElementGuid>dbd24429-5475-46ac-beab-72e58365ecdc</webElementGuid>
+      <webElementGuid>7db8c808-5325-4087-aae4-50ab2284b6fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>name</name>
       <type>Main</type>
       <value>comment</value>
-      <webElementGuid>fde45c86-0464-4267-98e3-8258185d6eb7</webElementGuid>
+      <webElementGuid>779a0a6d-655e-4b0d-8265-015738595570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Comment</value>
-      <webElementGuid>b2925ce5-02a6-4d50-a7dc-b72f23dcfd4d</webElementGuid>
+      <webElementGuid>3e74f49e-1db2-4daa-9cf9-d521a554f147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>958e43b1-b4d9-459b-92e8-02f3c8e299ed</webElementGuid>
+      <webElementGuid>09294b87-c985-494a-b4c6-afedea7b9c71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-d8edd64ff75a6f70ad702642243e86c0</value>
-      <webElementGuid>ef7253e1-8cfd-4308-ae1b-be94d70a04b7</webElementGuid>
+      <webElementGuid>aaa36e5f-7607-4a2a-8220-33632dda9690</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'txt_comment']</value>
-      <webElementGuid>88fb7907-e2ff-4715-a5ca-3b0c04467cf7</webElementGuid>
+      <webElementGuid>244986af-5e5c-49a9-a771-692d67e730f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'txt_comment']</value>
-      <webElementGuid>cf916d75-54a0-4aff-bd41-7cb3c69c1c7d</webElementGuid>
+      <webElementGuid>fcc2709b-c379-4654-9a2c-75598a0765cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +105,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'txt_comment' and @name = 'comment' and @placeholder = 'Comment']</value>
-      <webElementGuid>fed3a0b3-33a7-4111-94ac-6b097aab8757</webElementGuid>
+      <webElementGuid>9838410f-0ff7-4e72-b750-b153db1ebc1d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

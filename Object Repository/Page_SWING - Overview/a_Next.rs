@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Next</name>
+   <tag></tag>
+   <elementGuidId>9ffc6b87-3955-4a4f-a96f-070df1fa4e18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_top_next [href=&quot;\/swing\/swing_environment\.htm&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'btn_top_next']//*[@href = '/swing/swing_environment.htm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d36f933d-e855-40f3-b7fe-f7a891242875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/swing/swing_environment.htm</value>
+      <webElementGuid>9540f98c-7cfa-44b9-92eb-b2dc80b3ba09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Next
+   </value>
+      <webElementGuid>20225889-a851-48bf-a284-c6ff97e1e553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c03216a4eb60d2d22bea30bf4bb5806b</value>
+      <webElementGuid>b151dbcb-e930-4221-8c2d-cd174a5f9232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'btn_top_next']//*[@href = '/swing/swing_environment.htm']</value>
+      <webElementGuid>e8a8eb63-fbc2-4546-98f7-dce1ff886ad2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'btn_top_next']//*[@href = '/swing/swing_environment.htm']</value>
+      <webElementGuid>44f67cf8-f47c-40b3-970b-19fb4a26acb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/swing/swing_environment.htm' and (text() = '
+    Next
+   ' or . = '
+    Next
+   ')]</value>
+      <webElementGuid>2c34af1d-dd5a-4058-8ce6-853a2016311b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

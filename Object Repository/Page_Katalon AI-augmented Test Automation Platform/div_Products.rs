@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Products</name>
+   <tag></tag>
+   <elementGuidId>e2c3bee1-237d-45de-9a12-f12fba281bb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.header__nav--item.have-child-menu:nth-child(1) .header__nav--menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header__nav--item ') and contains(concat(' ', normalize-space(@class), ' '), ' have-child-menu ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header__nav--menu-title ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>596ebcab-d06a-45b9-9ff1-ab8c6035877f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__nav--menu-title</value>
+      <webElementGuid>855d8439-4579-4bbf-834f-430f4869ffbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Products</value>
+      <webElementGuid>2e00bbaf-3d4f-441a-9ca7-caf43b84ba0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-da4c2548926c1635cd0ef9276dd961f1</value>
+      <webElementGuid>63f49f80-991f-491e-ae04-50118de70e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header__nav--item ') and contains(concat(' ', normalize-space(@class), ' '), ' have-child-menu ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header__nav--menu-title ')]</value>
+      <webElementGuid>7bdee8f3-82ea-4e85-98f7-c3bb817ca920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header__nav--item ') and contains(concat(' ', normalize-space(@class), ' '), ' have-child-menu ') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' header__nav--menu-title ')]</value>
+      <webElementGuid>b44b3382-4fbd-42db-ace9-b4f672322823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Products' or . = 'Products')]</value>
+      <webElementGuid>2aab383c-f8d4-4dd4-8d7c-4803420bf9fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

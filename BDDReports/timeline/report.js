@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"33930f74-c783-4486-bfa2-bc7e4104dfc9","feature":"Test Login Functionality","scenario":"Check login is successful with valid credentials","start":1773192455453,"group":"main","content":"","tags":"@smoke,@valid,","end":1773192455459,"className":"undefined"},{"id":"3f86d3de-00ff-4558-aec2-1370efacded5","feature":"Test Login Functionality","scenario":"Check login is successful with valid credentials","start":1773192455462,"group":"main","content":"","tags":"@smoke,@invalid,","end":1773192455463,"className":"undefined"},{"id":"aafe0b13-883c-4d88-9323-504a0e5fb06a","feature":"Test Login Functionality","scenario":"Check login is successful with valid credentials","start":1773192455464,"group":"main","content":"","tags":"@smoke,@invalid,","end":1773192455465,"className":"undefined"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":"main","content":"main"}]);
+});

@@ -16,15 +16,22 @@
 # ""
 # # (Comments)
 # Sample Feature Definition Template
-
 Feature: Test Login Functionality
 
+  @smoke
   Scenario Outline: Check login is successful with valid credentials
     Given user is on login page
     When user enters valid "<username>" and "<password>"
     And clicks on login button some more
     Then user is navigated to home page
 
+    @valid
     Examples:
       | username | password    |
       | student  | Password123 |
+
+    @invalid
+    Examples:
+      | username | password    |
+      | student  | Password123 |
+      | admin    | Pass123     |

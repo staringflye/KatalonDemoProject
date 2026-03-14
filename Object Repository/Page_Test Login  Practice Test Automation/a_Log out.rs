@@ -6,12 +6,12 @@
    <elementGuidId>65c0d755-c5a9-4ae0-805b-01da016959ea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='loop-container']/div/article/div[2]/div/div/div/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.wp-block-button__link.has-text-color.has-background.has-very-dark-gray-background-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Test Automation.'])[1]/preceding::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

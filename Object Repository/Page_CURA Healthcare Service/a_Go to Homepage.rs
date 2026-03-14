@@ -6,12 +6,16 @@
    <elementGuidId>ee3ad1ee-8fb0-4325-88d6-27479af09bd5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' btn-default ')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>.btn.btn-default</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://katalon-demo-cura.herokuapp.com/' and (text() = 'Go to Homepage' or . = 'Go to Homepage')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' btn-default ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>423cdbd0-789f-4016-bc3b-c92b83f210a5</webElementGuid>
+      <webElementGuid>10ea84b4-a7ae-438f-bb32-866f3e44c4cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>042c5f48-d43a-4a1b-9cb9-7405b2702920</webElementGuid>
+      <webElementGuid>733d5a1c-b07a-4caa-87d6-bab9977e9b3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://katalon-demo-cura.herokuapp.com/</value>
-      <webElementGuid>aeaf8d79-ca30-429c-a706-5646cd4dfc86</webElementGuid>
+      <webElementGuid>4725b25b-790c-47c3-9b19-1e7e64fe0fa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go to Homepage</value>
-      <webElementGuid>5c906fe2-6007-408a-98d9-9916c83090bf</webElementGuid>
+      <webElementGuid>c76f1917-aac2-46eb-8572-bed5c0d5eab6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-8aa05ab92fc3b8464df566ac0b5576b0</value>
-      <webElementGuid>2eed1885-61cf-40e5-921e-19b7172765c7</webElementGuid>
+      <webElementGuid>3799e27c-ac4e-4166-b6e1-d4d1c15596b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' btn-default ')]</value>
-      <webElementGuid>32748c98-6d4b-4a6b-a4bb-25f8c40abac6</webElementGuid>
+      <webElementGuid>e183d702-5210-45db-a4a7-86a6220fddf9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ') and contains(concat(' ', normalize-space(@class), ' '), ' btn-default ')]</value>
-      <webElementGuid>2cc1c72f-f6c5-469e-9708-2c31c70c55b3</webElementGuid>
+      <webElementGuid>12d2739b-a810-4cb5-8073-7118f220de75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://katalon-demo-cura.herokuapp.com/' and (text() = 'Go to Homepage' or . = 'Go to Homepage')]</value>
-      <webElementGuid>67d84a05-d778-4158-8bda-1a00d788883a</webElementGuid>
+      <webElementGuid>952116cc-774b-45e2-8fad-62eea105ad91</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
