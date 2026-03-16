@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_27</name>
+   <name>iframe_employeetable</name>
    <tag></tag>
-   <elementGuidId>eb0c5cf8-a73e-4991-960d-5442a450a38d</elementGuidId>
+   <elementGuidId>9c709ff9-0850-400c-a4d9-5737810e2997</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-child(5) .day:nth-child(6)</value>
+         <key>XPATH</key>
+         <value>//*[@name = 'employeetable']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = '27' or . = '27')]</value>
+         <key>CSS</key>
+         <value>[name=&quot;employeetable&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,55 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>ede77d3f-1e21-49fd-b810-e310a0ba294e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>day</value>
-      <webElementGuid>d633f948-8cd1-4eb9-9a4f-875853bf7392</webElementGuid>
+      <value>iframe</value>
+      <webElementGuid>b30fe3f7-8765-4984-8799-9ceeefaf86f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>src</name>
       <type>Main</type>
-      <value>27</value>
-      <webElementGuid>90467d18-3335-4f48-8383-c465989c896a</webElementGuid>
+      <value>https://vinothqaacademy.com/webtable/</value>
+      <webElementGuid>97061fe1-86a3-4d2b-8992-b82a98177770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>employeetable</value>
+      <webElementGuid>b426cf19-7f69-4179-b7f7-dad956ed7757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Web Table</value>
+      <webElementGuid>e3eb43b3-1171-423f-a288-8c6edeb568c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-264779ee1f569eec9e3f9c550653dd15</value>
-      <webElementGuid>bf03a98c-d809-457b-827f-6c63343b9159</webElementGuid>
+      <value>md5.v1-920dfcd7e8247484ff10e9becfe4a899</value>
+      <webElementGuid>43d97ba0-a7d0-4693-be6a-770d39a300b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>edcc08d6-1f7a-427d-be53-4f4cf287545a</webElementGuid>
+      <value>//*[@name = 'employeetable']</value>
+      <webElementGuid>2d8c8796-a180-426e-916a-9cea22ebdac4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>e25ef6b2-852c-4c07-84dd-24efc7e2fa38</webElementGuid>
+      <value>//*[@name = 'employeetable']</value>
+      <webElementGuid>147442a1-0c32-4703-9c88-8172e5084ec7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '27' or . = '27')]</value>
-      <webElementGuid>19500b73-a44a-4258-bf84-5e6ea86e8bed</webElementGuid>
+      <value>//iframe[@src = 'https://vinothqaacademy.com/webtable/' and @name = 'employeetable' and @title = 'Web Table']</value>
+      <webElementGuid>3222de9d-934e-41e8-9cb5-3ed6101ac3a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

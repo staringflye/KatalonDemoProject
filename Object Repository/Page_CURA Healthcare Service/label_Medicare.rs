@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_27</name>
+   <name>label_Medicare</name>
    <tag></tag>
-   <elementGuidId>eb0c5cf8-a73e-4991-960d-5442a450a38d</elementGuidId>
+   <elementGuidId>353554b7-c898-4456-a6b2-a947966e2c7e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-child(5) .day:nth-child(6)</value>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' radio-inline ') and (position() = 1)]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = '27' or . = '27')]</value>
+         <key>CSS</key>
+         <value>.radio-inline:nth-child(1)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,55 +28,61 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>ede77d3f-1e21-49fd-b810-e310a0ba294e</webElementGuid>
+      <value>label</value>
+      <webElementGuid>4d06bba4-c6a0-40cd-84d5-82c888e79919</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>day</value>
-      <webElementGuid>d633f948-8cd1-4eb9-9a4f-875853bf7392</webElementGuid>
+      <value>radio-inline</value>
+      <webElementGuid>25e7204b-dbde-49ef-8c27-e9e80df27ded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>27</value>
-      <webElementGuid>90467d18-3335-4f48-8383-c465989c896a</webElementGuid>
+      <value>
+                             Medicare
+                        </value>
+      <webElementGuid>77ecead2-525d-44b5-946e-9488201b98a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-264779ee1f569eec9e3f9c550653dd15</value>
-      <webElementGuid>bf03a98c-d809-457b-827f-6c63343b9159</webElementGuid>
+      <value>md5.v1-6d5cd02fbed9f818b2482f2f00fd4efe</value>
+      <webElementGuid>12d3b653-7f79-43d2-aea2-aea2364198b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>edcc08d6-1f7a-427d-be53-4f4cf287545a</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' radio-inline ') and (position() = 1)]</value>
+      <webElementGuid>4a97cfb8-d691-450b-9d11-143382f0d620</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>e25ef6b2-852c-4c07-84dd-24efc7e2fa38</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' radio-inline ') and (position() = 1)]</value>
+      <webElementGuid>941207de-a645-4c1f-9c83-dfe5d8a1e6d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '27' or . = '27')]</value>
-      <webElementGuid>19500b73-a44a-4258-bf84-5e6ea86e8bed</webElementGuid>
+      <value>//label[(text() = '
+                             Medicare
+                        ' or . = '
+                             Medicare
+                        ')]</value>
+      <webElementGuid>10dc5289-f54b-41ff-b685-e62e7b78a443</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

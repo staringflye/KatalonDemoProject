@@ -6,12 +6,20 @@
    <elementGuidId>f3a71649-db17-4595-8e76-fd183d916f2a</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' radio-inline ') and (position() = 2)]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>.radio-inline:nth-child(2)</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' radio-inline ') and (position() = 2)]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                             Medicaid
+                        ' or . = '
+                             Medicaid
+                        ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>7c149124-fb2e-4d03-9feb-3c1056f71ed2</webElementGuid>
+      <webElementGuid>98328e19-ca05-49fd-928f-558f594c8133</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>radio-inline</value>
-      <webElementGuid>d956d035-ae1d-4a9a-8122-1ca51a4faa61</webElementGuid>
+      <webElementGuid>7baea272-495d-4b67-b654-c5beff0ff24d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +55,7 @@
       <value>
                              Medicaid
                         </value>
-      <webElementGuid>17896552-f2ce-4ef1-9f5b-d9f3eca974e9</webElementGuid>
+      <webElementGuid>b44c7919-ad0f-42a4-8d60-10f639da27b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +63,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-0d39e80de245f0bb6baafc0072953f63</value>
-      <webElementGuid>e87a8211-0ec2-4a9a-b278-4b8e4655b140</webElementGuid>
+      <webElementGuid>38651217-20bb-43ba-9ac4-578c0f41f6f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' radio-inline ') and (position() = 2)]</value>
-      <webElementGuid>cf4cd070-557d-43c3-b595-37762394523a</webElementGuid>
+      <webElementGuid>054c9842-41e1-4f74-8897-12c2f6855212</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' radio-inline ') and (position() = 2)]</value>
-      <webElementGuid>fc50f787-1c17-4e7e-8af8-0d9eadcc17ef</webElementGuid>
+      <webElementGuid>939d7bfb-d5f8-4d6c-879e-23c8a3d848b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,6 +91,6 @@
                         ' or . = '
                              Medicaid
                         ')]</value>
-      <webElementGuid>16f63623-1ce0-4862-9bf8-ddffaee6ef06</webElementGuid>
+      <webElementGuid>c889cfac-912d-4594-b7ec-1a1398a32d97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

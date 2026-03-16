@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Male</name>
+   <tag></tag>
+   <elementGuidId>e7328462-8d25-4843-98b4-6a1114dd27f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vfb-item ') and contains(concat(' ', normalize-space(@class), ' '), ' vfb-item-radio ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vfb-span ') and (position() = 1)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.vfb-item.vfb-item-radio .vfb-span:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d86bac86-aab6-4f65-b4d8-d40f17d81d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-span</value>
+      <webElementGuid>607cd5a7-c0c5-4906-b5ee-39caab26392d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Male</value>
+      <webElementGuid>066f19b3-f74a-4918-a3fb-9da97c108536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c674974db97ed0fe7be273a397b6176a</value>
+      <webElementGuid>fc2f219a-69c7-4e09-b88d-5d598b20f340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vfb-item ') and contains(concat(' ', normalize-space(@class), ' '), ' vfb-item-radio ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vfb-span ') and (position() = 1)]</value>
+      <webElementGuid>70c4dc75-cf9c-493e-9069-542686aa8a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/iframe_registeruser</value>
+      <webElementGuid>62253ab0-ce12-46b0-a426-475c883a4b51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vfb-item ') and contains(concat(' ', normalize-space(@class), ' '), ' vfb-item-radio ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' vfb-span ') and (position() = 1)]</value>
+      <webElementGuid>ec917bef-a3b5-4b30-9d68-e62be9f62d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Male' or . = 'Male')]</value>
+      <webElementGuid>49b59354-e3e1-4348-8954-adfef274ff8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

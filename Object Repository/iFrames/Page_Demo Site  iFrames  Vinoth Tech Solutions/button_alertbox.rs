@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_alertbox</name>
    <tag></tag>
-   <elementGuidId>035406c9-bcb5-4e9a-a735-00363af69b31</elementGuidId>
+   <elementGuidId>a798d1b5-c08b-4608-817d-7bfd002d9133</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit' and (text() = ' Login ' or . = ' Login ')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--main ')]</value>
+         <value>//*[@name = 'alertbox']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>.oxd-button--main</value>
+         <value>[name=&quot;alertbox&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
+         <value></value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,62 +29,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>702a6052-5220-4a96-b5a2-54b4fb977b38</webElementGuid>
+      <webElementGuid>59b8ea2d-c947-402b-a8b4-a6c098675cd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>19388b63-82a6-447d-b906-18280fe0fa7c</webElementGuid>
+      <value>alertbox</value>
+      <webElementGuid>c4707baf-d7a8-4660-be95-d6872c034718</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>oxd-button oxd-button--medium oxd-button--main orangehrm-login-button</value>
-      <webElementGuid>9d14a290-21ce-48e4-8917-f6927a0aa639</webElementGuid>
+      <value>myFunctionOne()</value>
+      <webElementGuid>7acd3df3-0f48-4290-a3d4-19da4faa4a14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Login </value>
-      <webElementGuid>fb6de621-2f6c-42d9-8438-0528cc88fd16</webElementGuid>
+      <value>Alert Box</value>
+      <webElementGuid>a26c6052-813b-47e1-b180-c1818df776cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-c09cacfc7d75d12faf70310687f5d71d</value>
-      <webElementGuid>2963eda4-a0ea-443b-b0cb-d0d0be88f58e</webElementGuid>
+      <value>md5.v1-ac954b0a7c0a8af5bc9ca9eaca616838</value>
+      <webElementGuid>3966168c-a77e-45e8-b712-f784caef2f4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--main ')]</value>
-      <webElementGuid>9b58cc6d-3de9-4d77-862e-22678a976a5c</webElementGuid>
+      <value>//*[@name = 'alertbox']</value>
+      <webElementGuid>7ebb760d-6d01-43c1-a626-dea4573b8ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/iframe_popuppage</value>
+      <webElementGuid>cfa1fc07-68e6-4f90-ad9c-99f2a3780c4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-button--main ')]</value>
-      <webElementGuid>085f29a4-4ba1-4638-b3a2-9f71698d78a7</webElementGuid>
+      <value>//*[@name = 'alertbox']</value>
+      <webElementGuid>1f5942f6-ad3a-4253-b1b7-90662c0b6cb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Login ' or . = ' Login123 ')]</value>
-      <webElementGuid>2be354d9-c7e3-4ec3-95b6-d8c506ca0747</webElementGuid>
+      <value>//button[@name = 'alertbox' and (text() = 'Alert Box' or . = 'Alert Box')]</value>
+      <webElementGuid>570b39c0-bdae-49a4-b5f8-270794e5c0d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

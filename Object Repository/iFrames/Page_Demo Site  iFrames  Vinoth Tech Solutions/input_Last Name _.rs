@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password</name>
+   <name>input_Last Name _</name>
    <tag></tag>
-   <elementGuidId>cd85c7a2-43a7-48bf-afc6-be104c7b23fd</elementGuidId>
+   <elementGuidId>263ce49a-023c-4408-a78b-6ee88dbf58c2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'txt-password']</value>
+         <value>//*[@name = 'vfb-7']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#txt-password</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @id = 'txt-password' and @name = 'password' and @placeholder = 'Password']</value>
+         <value>[name=&quot;vfb-7&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,86 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>44309ca2-6fd1-428c-aa24-823325432757</webElementGuid>
+      <webElementGuid>de74e08a-33c7-4438-97d9-8dcc346f31d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>72cdb8e9-38c6-4cfb-a29a-0941497749c6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>d46c4b3c-9b9c-4bb0-9a66-8ca91453eb4b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>txt-password</value>
-      <webElementGuid>dd21b4e5-b8af-439d-ab71-040bf5637815</webElementGuid>
+      <value>text</value>
+      <webElementGuid>538a398f-5943-42a4-8f08-26b63c667804</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>961a4171-3d88-4d65-94e6-6146b52b9471</webElementGuid>
+      <value>vfb-7</value>
+      <webElementGuid>43d2ded6-560e-4ac2-8b9d-14275d518a4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>49964f91-e008-4a55-93d5-8cfcc98fbed2</webElementGuid>
+      <value>vfb-7</value>
+      <webElementGuid>edb8fbf3-de52-41f8-91b7-a6de26aabe4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>class</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>70b84c0f-d4ff-4b73-ac7c-a218e4d6d712</webElementGuid>
+      <value>vfb-text  vfb-medium  required  </value>
+      <webElementGuid>58cd6540-216b-4854-aae3-7e46be6f8a98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a58b3c492958aec7a483c2e334fb3589</value>
-      <webElementGuid>1829b49c-993f-4146-ac5f-f4f59e1497fb</webElementGuid>
+      <value>md5.v1-f1e689c0f2594a69794707bcf4f2e0ac</value>
+      <webElementGuid>46498dc1-9b18-4d21-a754-3ce21333d681</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'txt-password']</value>
-      <webElementGuid>cbc41828-dfb4-43ce-aa48-188f3d0cbc9c</webElementGuid>
+      <value>//*[@name = 'vfb-7']</value>
+      <webElementGuid>6d9e0285-a2fb-4c05-bc68-cc076b13198b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/iframe_registeruser</value>
+      <webElementGuid>82a087e9-f908-434c-9aa1-adb29e581ff7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'txt-password']</value>
-      <webElementGuid>08479559-2156-4cc6-947c-8eabcc552910</webElementGuid>
+      <value>//*[@name = 'vfb-7']</value>
+      <webElementGuid>dd93413b-7833-4010-afed-342a44132111</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'txt-password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>a1865cfa-85f8-4336-bfbf-e017d644ffa5</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'vfb-7' and @id = 'vfb-7']</value>
+      <webElementGuid>13abfbb8-764e-4d5b-bb23-fb856abe92d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

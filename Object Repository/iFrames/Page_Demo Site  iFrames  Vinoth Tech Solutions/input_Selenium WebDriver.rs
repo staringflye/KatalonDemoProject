@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password</name>
+   <name>input_Selenium WebDriver</name>
    <tag></tag>
-   <elementGuidId>cd85c7a2-43a7-48bf-afc6-be104c7b23fd</elementGuidId>
+   <elementGuidId>b5ec1dab-d6b9-4601-8155-b2d6e66f42fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'txt-password']</value>
+         <value>//*[@value = 'Selenium WebDriver']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#txt-password</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @id = 'txt-password' and @name = 'password' and @placeholder = 'Password']</value>
+         <value>[value=&quot;Selenium\ WebDriver&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,86 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>44309ca2-6fd1-428c-aa24-823325432757</webElementGuid>
+      <webElementGuid>7f789014-d10a-4deb-94e1-a9d15552e4c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>72cdb8e9-38c6-4cfb-a29a-0941497749c6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>d46c4b3c-9b9c-4bb0-9a66-8ca91453eb4b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>txt-password</value>
-      <webElementGuid>dd21b4e5-b8af-439d-ab71-040bf5637815</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>35f517d2-e097-4cd5-af23-034f5ec1c2be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>961a4171-3d88-4d65-94e6-6146b52b9471</webElementGuid>
+      <value>vfb-20[]</value>
+      <webElementGuid>df5e57cc-1dad-44c7-8e9a-647b0c95f8a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>49964f91-e008-4a55-93d5-8cfcc98fbed2</webElementGuid>
+      <value>vfb-20-0</value>
+      <webElementGuid>97e47af1-85f7-4903-9c96-4ffe4a5aaebb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>value</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>70b84c0f-d4ff-4b73-ac7c-a218e4d6d712</webElementGuid>
+      <value>Selenium WebDriver</value>
+      <webElementGuid>ae0acd0e-d523-4c02-851c-9e7a05152c12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-checkbox  </value>
+      <webElementGuid>d3a559b5-c8af-4504-9a04-c78c5b6a029b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a58b3c492958aec7a483c2e334fb3589</value>
-      <webElementGuid>1829b49c-993f-4146-ac5f-f4f59e1497fb</webElementGuid>
+      <value>md5.v1-396a9bea265f24782405f7292e8218e0</value>
+      <webElementGuid>fd0c8ddc-2e52-4200-8a7a-9eca11d82a24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'txt-password']</value>
-      <webElementGuid>cbc41828-dfb4-43ce-aa48-188f3d0cbc9c</webElementGuid>
+      <value>//*[@value = 'Selenium WebDriver']</value>
+      <webElementGuid>7eff9cfd-b754-41df-96c3-36bb4658b8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/iframe_registeruser</value>
+      <webElementGuid>b1c16f26-64ab-4705-9f3b-50e24dbe7266</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'txt-password']</value>
-      <webElementGuid>08479559-2156-4cc6-947c-8eabcc552910</webElementGuid>
+      <value>//*[@value = 'Selenium WebDriver']</value>
+      <webElementGuid>51593403-97b5-430b-ae61-1a43e746f8bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'txt-password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>a1865cfa-85f8-4336-bfbf-e017d644ffa5</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'vfb-20[]' and @id = 'vfb-20-0']</value>
+      <webElementGuid>62ef964f-d050-4277-9d82-d34e60a42087</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

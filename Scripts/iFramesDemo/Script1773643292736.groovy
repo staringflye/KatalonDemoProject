@@ -17,6 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def name = 'Paul'
+WebUI.openBrowser('')
 
-println ' My name is ' +name
+WebUI.navigateToUrl('https://vinothqaacademy.com/iframe/')
+
+WebUI.click(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/input_checkbox'))
+
+WebUI.click(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/iframe_popuppage'))
+
+WebUI.click(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/iframe_registeruser'))
+
+WebUI.setText(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/input_First Name _'), 'Paul')
+
+WebUI.setText(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/input_Last Name _'), 'van Straaten')
+
+WebUI.click(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/span_Male'))
+
+WebUI.click(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/label_Course Interested'))
+
+WebUI.click(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/input_Selenium WebDriver'))
+
+WebUI.click(findTestObject('iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/input_DevOps'))
+
+WebUI.closeBrowser()
+

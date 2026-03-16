@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_27</name>
+   <name>input_checkbox</name>
    <tag></tag>
-   <elementGuidId>eb0c5cf8-a73e-4991-960d-5442a450a38d</elementGuidId>
+   <elementGuidId>df56eb8f-64f9-428f-ac24-e1f87a310e76</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-child(5) .day:nth-child(6)</value>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 1)]//*[@type = 'checkbox']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = '27' or . = '27')]</value>
+         <key>CSS</key>
+         <value>tr:nth-child(1) [type=&quot;checkbox&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,55 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>ede77d3f-1e21-49fd-b810-e310a0ba294e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>day</value>
-      <webElementGuid>d633f948-8cd1-4eb9-9a4f-875853bf7392</webElementGuid>
+      <value>input</value>
+      <webElementGuid>9c7292c4-dd5b-4a74-84cc-7c5c0cbd8921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>type</name>
       <type>Main</type>
-      <value>27</value>
-      <webElementGuid>90467d18-3335-4f48-8383-c465989c896a</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>9dd90268-7070-47a6-bb52-52046158e2fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-264779ee1f569eec9e3f9c550653dd15</value>
-      <webElementGuid>bf03a98c-d809-457b-827f-6c63343b9159</webElementGuid>
+      <value>md5.v1-4e6d3f356e0129660c5a87f135807566</value>
+      <webElementGuid>2b94e3e7-c7c7-44e9-8847-f756b88a98f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>edcc08d6-1f7a-427d-be53-4f4cf287545a</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@type = 'checkbox']</value>
+      <webElementGuid>fb97b4b0-32cb-4c5b-9886-99f0a00c20d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/iFrames/Page_Demo Site  iFrames  Vinoth Tech Solutions/iframe_employeetable</value>
+      <webElementGuid>31c12890-b788-4725-baa3-750c570b042e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>e25ef6b2-852c-4c07-84dd-24efc7e2fa38</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@type = 'checkbox']</value>
+      <webElementGuid>6bc9bd33-ed65-4d81-9e36-75e9fc744651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '27' or . = '27')]</value>
-      <webElementGuid>19500b73-a44a-4258-bf84-5e6ea86e8bed</webElementGuid>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>a71a8e22-d6de-41f2-bb9f-c1f1e7b3a909</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

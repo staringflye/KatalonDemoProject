@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_27</name>
+   <name>a_Logout</name>
    <tag></tag>
-   <elementGuidId>eb0c5cf8-a73e-4991-960d-5442a450a38d</elementGuidId>
+   <elementGuidId>afac811d-a053-418c-9ef6-1812db3f8bf6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>tr:nth-child(5) .day:nth-child(6)</value>
+         <key>XPATH</key>
+         <value>//*[@href = 'authenticate.php?logout']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[(text() = '27' or . = '27')]</value>
+         <key>CSS</key>
+         <value>[href=&quot;authenticate\.php\?logout&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,55 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>ede77d3f-1e21-49fd-b810-e310a0ba294e</webElementGuid>
+      <value>a</value>
+      <webElementGuid>4fb7a702-5788-4e9c-a67e-b8d023c8acff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>authenticate.php?logout</value>
+      <webElementGuid>090c4c2b-8cc4-4d05-8176-24c63e0925d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>day</value>
-      <webElementGuid>d633f948-8cd1-4eb9-9a4f-875853bf7392</webElementGuid>
+      <value>$('#menu-close').click();</value>
+      <webElementGuid>df53d77f-1c15-4e64-8b03-297652e0f766</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>27</value>
-      <webElementGuid>90467d18-3335-4f48-8383-c465989c896a</webElementGuid>
+      <value>Logout</value>
+      <webElementGuid>cdd8d343-5e13-455c-b82a-7bd1cf37627f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-264779ee1f569eec9e3f9c550653dd15</value>
-      <webElementGuid>bf03a98c-d809-457b-827f-6c63343b9159</webElementGuid>
+      <value>md5.v1-9ca75ea3f3bf23905c4e8b625463d47b</value>
+      <webElementGuid>8e93bbb0-0ea6-4bf6-b583-22412d4b3008</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>edcc08d6-1f7a-427d-be53-4f4cf287545a</webElementGuid>
+      <value>//*[@href = 'authenticate.php?logout']</value>
+      <webElementGuid>cad4028f-1078-4705-b111-da73ea231e65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' day ') and (position() = 6)]</value>
-      <webElementGuid>e25ef6b2-852c-4c07-84dd-24efc7e2fa38</webElementGuid>
+      <value>//*[@href = 'authenticate.php?logout']</value>
+      <webElementGuid>9740c75b-7746-419e-b840-17a109f19747</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = '27' or . = '27')]</value>
-      <webElementGuid>19500b73-a44a-4258-bf84-5e6ea86e8bed</webElementGuid>
+      <value>//a[@href = 'authenticate.php?logout' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>fdcd84c6-50a9-4b5b-9102-1f5afa36d374</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

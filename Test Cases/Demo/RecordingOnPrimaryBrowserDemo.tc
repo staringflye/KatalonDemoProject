@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecordingOnPrimaryBrowserDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fa7e80e-4c33-4a49-b95f-142468076f76</testCaseGuid>
+</TestCaseEntity>
