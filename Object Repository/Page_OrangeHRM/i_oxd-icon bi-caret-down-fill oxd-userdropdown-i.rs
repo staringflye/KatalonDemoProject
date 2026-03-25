@@ -6,6 +6,10 @@
    <elementGuidId>5b72a969-9d34-497f-8220-875484073d2e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>.oxd-userdropdown-icon</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-userdropdown-icon ')]</value>
       </entry>
@@ -13,16 +17,12 @@
          <key>XPATH</key>
          <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-userdropdown-icon ')]</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value>.oxd-userdropdown-icon</value>
-      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value></value>
+         <value>span >> internal:has-text=&quot;manda user&quot;i >> i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>0bb6f003-1093-4bfd-9459-52c0632d6230</webElementGuid>
+      <webElementGuid>95f8bf2d-52e4-4550-b748-1bfe6939b7a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-icon bi-caret-down-fill oxd-userdropdown-icon</value>
-      <webElementGuid>b8f90fd7-f9aa-4610-a07f-bb474806e417</webElementGuid>
+      <webElementGuid>314c07cb-1f60-43b9-b6a8-0f7ee566240b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-5347a33b06649efa451f0b19db28fdfa</value>
-      <webElementGuid>be1eccda-e1cb-468b-a895-cdc94e872b43</webElementGuid>
+      <webElementGuid>bb4a46e9-faec-4580-af7b-2f98e32292c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-userdropdown-icon ')]</value>
-      <webElementGuid>cd2d6e20-a0ad-4f1c-a67e-29900ec4b505</webElementGuid>
+      <webElementGuid>bcfe5c1c-eafa-41f8-a010-ec1a85a4dc31</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,6 +65,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' oxd-userdropdown-icon ')]</value>
-      <webElementGuid>b560dfda-c80f-447c-b616-0e88c679df3e</webElementGuid>
+      <webElementGuid>c0094b17-3383-4793-b0eb-7054ad0126fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

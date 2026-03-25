@@ -6,6 +6,10 @@
    <elementGuidId>37b6990d-232e-4d84-a476-bf449221d8bb</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/web\/index\.php\/auth\/logout&quot;]</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@href = '/web/index.php/auth/logout' and (text() = 'Logout' or . = 'Logout')]</value>
       </entry>
@@ -13,16 +17,12 @@
          <key>XPATH</key>
          <value>//*[@href = '/web/index.php/auth/logout']</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value>[href=&quot;\/web\/index\.php\/auth\/logout&quot;]</value>
-      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value></value>
+         <value>internal:role=menuitem[name=&quot;Logout&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>37551c1c-11a6-4dcb-8638-d1f118b2c572</webElementGuid>
+      <webElementGuid>a56e2acb-8784-4a75-94c5-19c8f4136181</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/auth/logout</value>
-      <webElementGuid>709fb127-52f9-4b59-b91a-4a8a63e7d1e0</webElementGuid>
+      <webElementGuid>b826bbc7-a61e-47aa-9032-11030bb1a8cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>04f0896d-7f72-4f2a-838c-15647767c19c</webElementGuid>
+      <webElementGuid>517e7093-ca77-4843-872c-16aa0d81ee00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-userdropdown-link</value>
-      <webElementGuid>68a4767b-9cbb-4795-a772-d810213659fc</webElementGuid>
+      <webElementGuid>7ecbfff9-6a1d-433c-926c-fe5c60ecbcdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>c3b11f1b-4a8d-48aa-a6c3-a50506f25e2d</webElementGuid>
+      <webElementGuid>75f42eec-3611-4042-aa89-bbbec3c1c167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-598bc665ab58c82bde28a833a4054a25</value>
-      <webElementGuid>bfddf914-7926-4ce8-aa73-a355be4e0a93</webElementGuid>
+      <webElementGuid>23f7257f-eb66-468c-8296-cd2a90e0128c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@href = '/web/index.php/auth/logout']</value>
-      <webElementGuid>6239994e-4289-401b-a5bb-540e4a400dc4</webElementGuid>
+      <webElementGuid>26f7a641-299d-4d4b-8031-25cdf107d4d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@href = '/web/index.php/auth/logout']</value>
-      <webElementGuid>fe4d0484-6fce-4366-9ac5-39c1968d173e</webElementGuid>
+      <webElementGuid>f1d7ec55-9084-4aa9-8697-f539a1bcc0fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,6 +97,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/auth/logout' and (text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>95782083-e1d1-40db-8c31-f2c2b8fcbfc1</webElementGuid>
+      <webElementGuid>b42b7359-e12e-4d09-8d2a-5af0e5b4f137</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
