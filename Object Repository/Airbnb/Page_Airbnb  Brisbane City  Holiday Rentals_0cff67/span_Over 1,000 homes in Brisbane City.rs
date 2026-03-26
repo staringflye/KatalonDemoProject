@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Over 1,000 homes in Brisbane City</name>
+   <tag></tag>
+   <elementGuidId>b3e82ada-116e-4e4e-895e-90f8cb68227e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;stays-page-heading&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'stays-page-heading']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0489f606-4150-4b6a-b8b4-8e96ac829c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ttkzbcj atm_fr_i8y2z4 atm_cs_1madr4d atm_c8_1k92wuq atm_g3_1k8s52q dir dir-ltr</value>
+      <webElementGuid>be0df6c1-17f8-4816-bd9f-edbfd974df0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>874bbc27-cf30-4f8e-a0ad-62065f5fedad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>stays-page-heading</value>
+      <webElementGuid>ad705d17-f086-4ab1-8d5a-1f351484abc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over 1,000 homes in Brisbane City</value>
+      <webElementGuid>cdb6a08b-6349-43df-a7c3-82fe1e97bf92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1e54778e393c8198827f50fee6d2f0e6</value>
+      <webElementGuid>512bfbbb-347f-45c7-ad76-25935a61af7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'stays-page-heading']</value>
+      <webElementGuid>06114181-f6c6-40f3-8ec0-55f4212d1211</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'stays-page-heading']</value>
+      <webElementGuid>c03d7dd4-6106-4ffe-bc33-da5a9b4ac836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Over 1,000 homes in Brisbane City' or . = 'Over 1,000 homes in Brisbane City')]</value>
+      <webElementGuid>22c61099-dbf8-41ed-95b9-8f00b13bbe99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

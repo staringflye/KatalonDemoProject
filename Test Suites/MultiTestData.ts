@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MultiTestData</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6d5c6bca-03a2-4903-a4ca-7ec4cdd1b703</testSuiteGuid>
+   <testCaseLink>
+      <guid>b6c0b169-4fae-4267-b2c7-12b52f05aaa1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Atlanta'</defaultValue>
+         <description></description>
+         <id>a6145cff-dcbb-4d6d-9c2a-27f3d917f9d9</id>
+         <masked>false</masked>
+         <name>city</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Reuse Test Cases/FindAPlaceDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>866a675a-8841-4a0e-a187-3dab4b3a22ad</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/FindaPlaceDemoDataXLS</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c03456d5-94c8-46bd-a6bd-6ee45195e54b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SampleData1 - cities</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ce401bf8-9605-4bec-829d-dbc65598f883</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/FindaPlaceDemoData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>866a675a-8841-4a0e-a187-3dab4b3a22ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>a6145cff-dcbb-4d6d-9c2a-27f3d917f9d9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

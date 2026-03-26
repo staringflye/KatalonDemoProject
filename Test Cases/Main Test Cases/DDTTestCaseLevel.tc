@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DDTTestCaseLevel</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>76a39ba0-ec92-49df-bd35-b29e1c552957</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>fe335684-6ecf-4d59-8c07-35c43e979f20</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/url</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>fe335684-6ecf-4d59-8c07-35c43e979f20</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>74e094fd-b68e-4c0f-b5d9-103c835416c4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>74e094fd-b68e-4c0f-b5d9-103c835416c4</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search_1</name>
+   <tag></tag>
+   <elementGuidId>7827b03c-f4cc-45ec-8a22-b6847ac779fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;structured-search-input-search-button&quot;] > div.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'structured-search-input-search-button']/div[@class and contains(concat(' ', normalize-space(@class), ' '), ' dir ') and contains(concat(' ', normalize-space(@class), ' '), ' dir-ltr ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a77b8e36-8452-4d93-8a63-6291d599354f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s1n779tz atm_26_25out6_1nos8r s1tip1vt atm_26_25out6 atm_7l_85zwdx atm_e2_fyhuej atm_vy_1wugsn5 atm_9s_1txwivl atm_fc_1h6ojuz atm_h_1h6ojuz atm_l8_19bvopo atm_cx_ftgil2 dir dir-ltr</value>
+      <webElementGuid>95900708-979e-404b-9fbf-d78674791bd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>0b2fb761-987c-4016-9bfb-d0b372092259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-37d3fd60c54a05a43897ec99fa6a766d</value>
+      <webElementGuid>78064966-40c8-4aeb-a5ad-c78c0c475275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'structured-search-input-search-button']/div[@class and contains(concat(' ', normalize-space(@class), ' '), ' dir ') and contains(concat(' ', normalize-space(@class), ' '), ' dir-ltr ')]</value>
+      <webElementGuid>7cf3a87a-1166-4c7f-a9d2-890f3b5cd73a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'structured-search-input-search-button']/div[@class and contains(concat(' ', normalize-space(@class), ' '), ' dir ') and contains(concat(' ', normalize-space(@class), ' '), ' dir-ltr ')]</value>
+      <webElementGuid>71d9186e-614c-479a-b919-5a90d20af56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>a47ca145-3d1e-42ee-bc6f-633dc59e2e42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

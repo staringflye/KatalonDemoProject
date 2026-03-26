@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Over 1,000 homes in Atlanta</name>
+   <tag></tag>
+   <elementGuidId>740d13e8-9e2b-414a-bced-fb16ad771fcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;stays-page-heading&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'stays-page-heading']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e2a279b-1341-4202-8551-350fc953d4c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ttkzbcj atm_fr_i8y2z4 atm_cs_1madr4d atm_c8_1k92wuq atm_g3_1k8s52q dir dir-ltr</value>
+      <webElementGuid>efb34782-f21c-4a80-bd5d-06f193e104e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>db0490fb-ba7c-4729-93c8-0bd5baf0b9a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>stays-page-heading</value>
+      <webElementGuid>49eada83-d924-4a07-96d7-176cdfd291ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over 1,000 homes in Atlanta</value>
+      <webElementGuid>8dccd16c-9edc-40ee-bb6f-267aff2221d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1e54778e393c8198827f50fee6d2f0e6</value>
+      <webElementGuid>6186ff7b-e6b2-4750-9b1d-e80b85136562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'stays-page-heading']</value>
+      <webElementGuid>b96fd7e2-0494-4e0f-919d-365d95069a07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'stays-page-heading']</value>
+      <webElementGuid>e891a76c-df0e-4328-bcda-cc7e150d9bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Over 1,000 homes in Atlanta' or . = 'Over 1,000 homes in Atlanta')]</value>
+      <webElementGuid>38a26c8f-05b0-4ec6-90b6-31a9e2546d67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

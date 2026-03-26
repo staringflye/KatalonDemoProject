@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Over 1,000 homes in Downtown Atlanta</name>
+   <tag></tag>
+   <elementGuidId>6229a7b6-33af-4322-9984-a2efdab8939e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;stays-page-heading&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'stays-page-heading']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;stays-page-heading&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>485cccd8-5df2-42d2-89d9-3d4fedc124fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ttkzbcj atm_fr_i8y2z4 atm_cs_1madr4d atm_c8_1k92wuq atm_g3_1k8s52q dir dir-ltr</value>
+      <webElementGuid>28b095f1-3dd0-4b82-af08-3a94fb4a493c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e2845479-c0ae-4903-bfc6-1cfe02ec4e1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>stays-page-heading</value>
+      <webElementGuid>95c13bb2-77cf-4868-9a6d-14fe9d4b33a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Over 1,000 homes in Downtown Atlanta</value>
+      <webElementGuid>f3651067-ca9a-4848-aadf-c97eaedb0014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1e54778e393c8198827f50fee6d2f0e6</value>
+      <webElementGuid>d9328b4c-b89e-4d33-9a38-1d8d8e9bbf3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'stays-page-heading']</value>
+      <webElementGuid>0d591254-a1b9-4a52-9b44-43a64780c167</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'stays-page-heading']</value>
+      <webElementGuid>16cfd34a-00da-420f-a34b-484d5422b31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Over 1,000 homes in Downtown Atlanta' or . = 'Over 1,000 homes in Downtown Atlanta')]</value>
+      <webElementGuid>73599e4d-3e26-4b9a-b962-571eb931eb74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

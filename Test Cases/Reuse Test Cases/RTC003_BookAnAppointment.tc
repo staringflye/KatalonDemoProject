@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Aloows the user to book an appointment on the app</description>
+   <name>RTC003_BookAnAppointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f3f1bf8-7d2c-494d-8706-0e5cc4b91998</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d94b010-4270-4e11-a002-98ee4e943f84</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0413c5a9-cc2b-42fc-ba0d-51a498831b4d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>2d94b010-4270-4e11-a002-98ee4e943f84</id>
+      <masked>false</masked>
+      <name>HealthCareCenter</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is a test comment'</defaultValue>
+      <description></description>
+      <id>0413c5a9-cc2b-42fc-ba0d-51a498831b4d</id>
+      <masked>false</masked>
+      <name>TestComment</name>
+   </variable>
+</TestCaseEntity>

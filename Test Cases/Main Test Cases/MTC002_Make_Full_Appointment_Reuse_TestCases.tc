@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is where you recall test cases with the reuse functionality</description>
+   <name>MTC002_Make_Full_Appointment_Reuse_TestCases</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>842dcb33-2bea-458c-921c-2e58f6d6d3c3</testCaseGuid>
+</TestCaseEntity>

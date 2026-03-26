@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_1, Wednesday, April 2026. Available Selec</name>
+   <tag></tag>
+   <elementGuidId>bf130e0a-2e76-41a1-ac94-7164ea29f83b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;\31 \,\ Wednesday\,\ April\ 2026\.\ Available\ Select\ as\ check-in\ date\.&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = '1' or . = '1')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label = '1, Wednesday, April 2026. Available Select as check-in date.']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f4f55c9d-cdc6-455e-9da9-bb09a9c125af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e39d124-5a62-4b10-8f14-96d8e24d9f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>1, Wednesday, April 2026. Available Select as check-in date.</value>
+      <webElementGuid>49574b0e-38d8-47f9-80f4-d73f2e854387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d1j0q1s5 atm_vy_1osqo2v atm_1w_1qhzids atm_mk_h2mmj6 atm_9s_1txwivl atm_h_1h6ojuz atm_fc_1h6ojuz atm_fb_1cl4t0h atm_c8_dlk8xv atm_cs_1mexzig atm_7l_1dmvgf5 atm_9j_tlke0l atm_vb_glywfm atm_70_glywfm atm_2d_n7od8j atm_3f_n7od8j atm_lb_n7od8j atm_lh_n7od8j atm_vy_1sywq1v_vmtskl atm_e2_1osqo2v_vmtskl atm_mk_stnw88_vmtskl atm_92_1yyfdc7_vmtskl atm_5j_1ssbidh_vmtskl atm_wq_1mrwo0b_vmtskl atm_70_1r365bk_1rqz0hn_uv4tnr atm_kd_glywfm_1w3cfyq atm_3f_glywfm_e4a3ld atm_l8_idpfg4_e4a3ld atm_gi_idpfg4_e4a3ld atm_3f_glywfm_1r4qscq atm_kd_glywfm_6y7yyg atm_uc_1wx0j5_9xuho3 atm_70_a4f9pl_9xuho3 atm_uc_glywfm_9xuho3_1rrf6b5 undefined dir dir-ltr</value>
+      <webElementGuid>bc2067e7-7c30-4c6e-a59a-f39ba04f4f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state--date-string</name>
+      <type>Main</type>
+      <value>2026-04-01</value>
+      <webElementGuid>da416ebe-00ab-4bee-9107-73b827d86b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d956c9b8-96a8-4405-9153-50925dc0b83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>9466cd05-cf6d-492e-8138-0dde37b0fff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fdc902c558c9fb3a8747de485e370c5a</value>
+      <webElementGuid>a3821ef1-ca6b-4b8a-8d70-93d91010492f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-label = '1, Wednesday, April 2026. Available Select as check-in date.']</value>
+      <webElementGuid>7e7c6cab-b3f9-40af-ba0b-c53fc1bcc8a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-label = '1, Wednesday, April 2026. Available Select as check-in date.']</value>
+      <webElementGuid>4b0048bf-7604-4106-bc5d-8181010b7328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '1' or . = '1')]</value>
+      <webElementGuid>ff54a64e-3a27-4bb7-8d75-5baae5042548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

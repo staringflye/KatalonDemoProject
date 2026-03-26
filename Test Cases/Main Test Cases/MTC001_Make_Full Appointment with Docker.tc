@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a fulll end-to-end test case that contains, Login, Booking and Logout</description>
+   <name>MTC001_Make_Full Appointment with Docker</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c2d56ac-869e-4b9e-b254-cb10cf9b06bc</testCaseGuid>
+</TestCaseEntity>

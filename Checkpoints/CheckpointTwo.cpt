@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointTwo</name>
+   <tag></tag>
+   <db-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url></source-url>
+      <source-type>DBData</source-type>
+      <is-using-global-db-setting>true</is-using-global-db-setting>
+      <is-secure-user-account>false</is-secure-user-account>
+      <user></user>
+      <password></password>
+      <query><![CDATA[select * from city;]]></query>
+      <driverClassName></driverClassName>
+      <connectionProperties/>
+   </db-source-info>
+   <taken-date>2026-03-19T16:04:07.23+10:00</taken-date>
+   <column-names>
+      <column-name>city</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Tampa",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Atlanta",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "New York",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Hobart",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Brisbane",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Sydney",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
